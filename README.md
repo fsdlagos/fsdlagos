@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fsdlagos
 
 ## Project setup
@@ -19,3 +20,7 @@ npm run build
 ```
 npm run lint
 ```
+=======
+# Fullstack Developers Lagos (Official website)
+Official website for Full Stack Developers Lagos Community
+>>>>>>> d4b4b452cd6007c4df0dcd6e629433c20d36766a
