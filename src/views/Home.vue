@@ -42,7 +42,7 @@
         <div class="col-sm-12 col-md-12 text-center">
           <h2>Our next meetup</h2>
           <br />
-          <p>Join us at the <span class="underline">Fullstack developers meetup</span> on <span class="underline">March 2nd, 2019</span> at <span class="underline">Our venue</span> by <span class="underline">11am</span> for our next meetup</p>
+          <p>Join us at the <span class="underline">Fullstack developers meetup</span> on <span class="underline">May 4th, 2019</span> at <span class="underline">Our venue</span> by <span class="underline">11am</span> for our first meetup</p>
           <a href="https://www.meetup.com/gdg-Ajah/events/258556771/?rv=co1&_xtd=gatlbWFpbF9jbGlja9oAJGQyZThhMjQ4LWFiMTItNDEwMS04YzVlLTIxMzVmMjVmM2JmYw" target="_blank" class="btn btn-rsvp">Rsvp here</a>
         </div>
       </div>
