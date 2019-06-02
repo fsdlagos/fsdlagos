@@ -20,6 +20,9 @@ npm run build
 ```
 npm run lint
 ```
+## License
+
+MIT. Please refer to the [license](https://github.com/fsdlagos/fsdlagos/blob/master/LICENSE) file here.
 
 ## Contributions
 
